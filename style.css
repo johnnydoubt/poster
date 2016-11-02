@@ -16,17 +16,18 @@ body {
     width: 100%;
 }
 
-
 .bas {
-  display: inline-block;
+    display: inline-block;
     width: 100vw;
     height: inherit;
     position: relative;
     top: 127vw;
 }
+
 p {
-  font-size: 0.91vw;
+    font-size: 0.91vw;
 }
+
 .star {
     width: auto;
     margin-right: 50px;
@@ -49,8 +50,8 @@ p {
 }
 
 .credits {
-  width: 100vw;
-  display: block;
+    width: 100vw;
+    display: block;
     text-align: center;
     position: relative;
     font-family: arial;
