@@ -5,7 +5,7 @@
 
 body {
     background-image: url(https://johnnydoubt.github.io/poster/blade_runner_empty.jpg);
-    background-size: cover;
+    background-size: 50%;
     background-repeat: no-repeat;
     margin: 0 auto;
     padding: 0;
