@@ -11,10 +11,6 @@ body {
     padding: 0;
 }
 
-.affiche {
-    position: relative;
-    width: 100%;
-}
 
 .bas {
     display: inline-block;
