@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "blade_runner";
+    src: url("BLADRMF_.TTF");
+}
+
+body {
+    background-image: url(/home/kloporth/dev/exo/poster/blade_runner_empty.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.affiche {
+    position: relative;
+    width: 100%;
+}
+
+
+.bas {
+  display: inline-block;
+    width: 100vw;
+    height: inherit;
+    position: relative;
+    top: 127vw;
+}
+p {
+  font-size: 0.91vw;
+}
+.star {
+    width: auto;
+    margin-right: 50px;
+    text-align: center;
+    position: relative;
+    font-size: 4vw;
+    color: white;
+    font-family: arial;
+    line-height: 0em;
+}
+
+.titre {
+    width: auto;
+    text-align: center;
+    position: relative;
+    font-size: 4vw;
+    color: #c61d1d;
+    font-family: blade_runner, cursive;
+    line-height: 0.10vw;
+}
+
+.credits {
+  width: 100vw;
+  display: block;
+    text-align: center;
+    position: relative;
+    font-family: arial;
+    color: white;
+}
+
+.petit_texte {
+    font-size: 0.5vw;
+}
+
+.logodd {
+    width: 4vw;
+}
+
+.ratedr {
+    width: 5.7vw;
+}
